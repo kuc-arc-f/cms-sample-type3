@@ -6,7 +6,7 @@
 
  date    : 2020/08/20
 
- update : 
+ update : 2020/08/21
 
 ***
 
@@ -17,7 +17,7 @@ Github pages file :
 ***
 ### sample
 
-
+https://kuc-arc-f.github.io/cms-sample-type3
 
 ***
 
